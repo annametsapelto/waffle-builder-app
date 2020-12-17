@@ -1,0 +1,27 @@
+.Waffle {
+    width: 100%;
+    height: 250px;
+    margin: auto;
+    text-align: center;
+}
+
+@media (min-width: 500px) and (min-height: 400px) {
+    .Waffle {
+        width: 400px;
+        height: 300px;
+    }
+}
+
+@media (min-width: 500px) and (min-height: 401px) {
+    .Waffle {
+        width: 450px;
+        height: 300px;
+    }
+} 
+
+@media (min-width: 1000px) and (min-height: 700px) {
+    .Waffle {
+        width: 700px;
+        height: 450px;
+    }
+}

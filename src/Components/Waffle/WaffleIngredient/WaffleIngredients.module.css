@@ -1,0 +1,41 @@
+.WaffleBottom {
+    height: 15%;
+    width: 100%;
+    background: linear-gradient(#F08E4A, #e27b36);
+    border-radius: 0 0 30px 30px;
+    box-shadow: inset -15px 0 #c15711;
+    margin: 1% auto;
+}
+
+
+.ChocolateSauce {
+    width: 80%;
+    height: 5%;
+    background: linear-gradient(#7f3608, #702e05);
+    margin: 1% auto;
+    border-radius: 15px;
+}
+
+.WhippedCream {
+    width: 75%;
+    height: 8%;
+    margin: 1% auto;
+    background: linear-gradient(#ffffff, #ffffe6);
+    border-radius: 20px;
+}
+
+.StrawberryJam {
+    width: 85%;
+    height: 5%;
+    margin: 1% auto;
+    background: linear-gradient( #ff0000, #cc0000);
+    border-radius: 15px;
+}
+
+.BlueberryJam {
+    width: 80%;
+    height: 5%;
+    background: linear-gradient(#660066, #00005f);
+    margin: 1% auto;
+    border-radius: 15px;
+}
